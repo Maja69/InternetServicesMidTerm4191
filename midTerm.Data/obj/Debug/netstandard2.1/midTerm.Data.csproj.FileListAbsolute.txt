@@ -1,0 +1,9 @@
+C:\Users\Dusko\Downloads\2021\2021\midTerm.Data\bin\Debug\netstandard2.1\midTerm.Data.deps.json
+C:\Users\Dusko\Downloads\2021\2021\midTerm.Data\bin\Debug\netstandard2.1\midTerm.Data.dll
+C:\Users\Dusko\Downloads\2021\2021\midTerm.Data\bin\Debug\netstandard2.1\midTerm.Data.pdb
+C:\Users\Dusko\Downloads\2021\2021\midTerm.Data\obj\Debug\netstandard2.1\midTerm.Data.csprojAssemblyReference.cache
+C:\Users\Dusko\Downloads\2021\2021\midTerm.Data\obj\Debug\netstandard2.1\midTerm.Data.AssemblyInfoInputs.cache
+C:\Users\Dusko\Downloads\2021\2021\midTerm.Data\obj\Debug\netstandard2.1\midTerm.Data.AssemblyInfo.cs
+C:\Users\Dusko\Downloads\2021\2021\midTerm.Data\obj\Debug\netstandard2.1\midTerm.Data.csproj.CoreCompileInputs.cache
+C:\Users\Dusko\Downloads\2021\2021\midTerm.Data\obj\Debug\netstandard2.1\midTerm.Data.dll
+C:\Users\Dusko\Downloads\2021\2021\midTerm.Data\obj\Debug\netstandard2.1\midTerm.Data.pdb
